@@ -3,8 +3,8 @@
 ## download
 
 ### latest version 1.2.3
-* android [download](https://github.com/fivecarsword/Dartris-Release/raw/main/dartris%201.2.3/dartris%201.2.2%20-%20android.apk)
-* windows [download](https://github.com/fivecarsword/Dartris-Release/raw/main/dartris%201.2.3/dartris%201.2.2%20-%20windows.7z)
+* android [download](https://github.com/fivecarsword/Dartris-Release/blob/main/dartris%201.2.3/dartris%201.2.3%20-%20android.apk)
+* windows [download](https://github.com/fivecarsword/Dartris-Release/blob/main/dartris%201.2.3/dartris%201.2.3%20-%20windows.7z)
 
 ### version 1.2.2
 * android [download](https://github.com/fivecarsword/Dartris-Release/raw/main/dartris%201.2.2/dartris%201.2.2%20-%20android.apk)
